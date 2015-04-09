@@ -115,8 +115,3 @@ The goal of this little research project, is to verify the performance gain by u
    
 So this project will not provide a permanent replacement for the default memory allocator. 
 Instead the results will be provided to BIS and hopefully help to improve the default memory allocator as part of the arma distribution.
-
-
-
-Greets,
-Fred41
